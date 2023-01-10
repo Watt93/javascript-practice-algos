@@ -10,5 +10,5 @@ function reverseString(string) {
 
 
 // DO NOT TOUCH TESTS BELOW
-console.log(booleanToWord('world') === 'dlrow' ? '✅ 01 - Test Passed' : '❌ 01 - Test Failed');
-console.log(evenOrOdd('word') === 'drow' ? '✅ 02 - Test Passed' : '❌ 02 - Test Failed');
+console.log(reverseString('world') === 'dlrow' ? '✅ 01 - Test Passed' : '❌ 01 - Test Failed');
+console.log(reverseString('word') === 'drow' ? '✅ 02 - Test Passed' : '❌ 02 - Test Failed');

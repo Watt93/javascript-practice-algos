@@ -9,4 +9,4 @@ function booleanToWord(boolean) {
 
 // DO NOT TOUCH TESTS BELOW
 console.log(booleanToWord(true) === 'Yes' ? '✅ 01 - Test Passed' : '❌ 01 - Test Failed');
-console.log(evenOrOdd(false) === 'No' ? '✅ 02 - Test Passed' : '❌ 02 - Test Failed');
+console.log(booleanToWord(false) === 'No' ? '✅ 02 - Test Passed' : '❌ 02 - Test Failed');
