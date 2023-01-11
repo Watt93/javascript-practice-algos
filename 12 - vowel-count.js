@@ -8,8 +8,8 @@ function vowelCount(string) {
 }
 
 // DO NOT TOUCH TESTS BELOW
-console.log(wordFormatter('elephant') === 3 ? '✅ 01 - Test Passed' : '❌ 01 - Test Failed')
+console.log(vowelCount('elephant') === 3 ? '✅ 01 - Test Passed' : '❌ 01 - Test Failed')
 
-console.log(wordFormatter('pizza') === 2 ? '✅ 01 - Test Passed' : '❌ 01 - Test Failed')
+console.log(vowelCount('pizza') === 2 ? '✅ 01 - Test Passed' : '❌ 01 - Test Failed')
 
-console.log(wordFormatter('magic') === 2 ? '✅ 01 - Test Passed' : '❌ 01 - Test Failed')
+console.log(vowelCount('magic') === 2 ? '✅ 01 - Test Passed' : '❌ 01 - Test Failed')
