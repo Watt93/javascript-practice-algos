@@ -11,4 +11,4 @@ and then run:
     `node <name-of-file>` 
     e.g `node 01 - even-or-odd.js`
 4. You should then see if your solution passed the tests within the console.
-5. Only move onto the next algorithm once all tests have passed.
+5. Only move onto the next algorithm once all tests have passed.# practice-github-commands
